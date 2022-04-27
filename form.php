@@ -112,11 +112,5 @@
       </form>
     </section>
   </div>
-  <footer class="foot">
-        <div id=contacts>
-            <h3>Develop by <a href="https://vk.com/jayvis">E.Khudyshkin</a></h3>
-            <h4>student of KubSU 24/1</h4>
-        </div>
-    </footer>
 </body>
 </html>
